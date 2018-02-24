@@ -1,0 +1,154 @@
+Content-Transfer-Encoding: 8bit
+
+#: list-plugins.php:194
+#@ listplugins
+msgid "This plugin generates and display the list of the plugins on your wordpress installation. Moreover it enables the download of the plugins."
+msgstr ""
+
+#: list-plugins.php:195
+#@ listplugins
+msgid "Purpose of that plugin"
+msgstr ""
+
+#: list-plugins.php:197
+#@ listplugins
+msgid "To display the list please type %s on pages/posts where you want the list to be displayed."
+msgstr ""
+
+#: list-plugins.php:198
+#@ listplugins
+msgid "How to display the list of the plugin?"
+msgstr ""
+
+#: list-plugins.php:202
+#@ listplugins
+msgid "How To"
+msgstr ""
+
+#: list-plugins.php:207
+#@ listplugins
+msgid "Which plugins do you want to list?"
+msgstr ""
+
+#: list-plugins.php:208
+#@ listplugins
+msgid "Display plugins that are hosted by Wordpress:"
+msgstr ""
+
+#: list-plugins.php:209
+#@ listplugins
+msgid "Display Wordpress plugins that are inactive:"
+msgstr ""
+
+#: list-plugins.php:210
+#@ listplugins
+msgid "Display plugins that are not hosted by Wordpress:"
+msgstr ""
+
+#: list-plugins.php:211
+#@ listplugins
+msgid "Display non-Wordpress plugins that are inactive:"
+msgstr ""
+
+#: list-plugins.php:212
+#@ listplugins
+msgid "Show only plugins developped by the author:"
+msgstr ""
+
+#: list-plugins.php:213
+#@ listplugins
+msgid "If this field is empty, all plugins (matching the previous conditions) will be displayed"
+msgstr ""
+
+#: list-plugins.php:215
+#@ listplugins
+msgid "Advanced options"
+msgstr ""
+
+#: list-plugins.php:216
+#@ listplugins
+msgid "What is the width of screenshots (in pixels):"
+msgstr ""
+
+#: list-plugins.php:217
+#@ listplugins
+msgid "What is the HTML:"
+msgstr ""
+
+#: list-plugins.php:233
+#@ listplugins
+msgid "Default HTML: %s"
+msgstr ""
+
+#: list-plugins.php:234
+#@ listplugins
+msgid "What is the CSS:"
+msgstr ""
+
+#: list-plugins.php:269
+#@ listplugins
+msgid "Default CSS: %s"
+msgstr ""
+
+#: list-plugins.php:270
+#@ listplugins
+msgid "Path to store the zip file if needed:"
+msgstr ""
+
+#: list-plugins.php:271
+#@ listplugins
+msgid "Note that, if the plugin is also hosted by wordpress.org, the download link will be a link to the plugin page on wordpress.org"
+msgstr ""
+
+#: list-plugins.php:275
+#@ listplugins
+msgid "The path %s exists"
+msgstr ""
+
+#: list-plugins.php:279
+#@ listplugins
+msgid "The path %s does not exist and cannot be created due to rights in the folder"
+msgstr ""
+
+#: list-plugins.php:281
+#@ listplugins
+msgid "The path %s have been just created !"
+msgstr ""
+
+#: list-plugins.php:285
+#@ listplugins
+msgid "Parameters"
+msgstr ""
+
+#: list-plugins.php:291
+#@ listplugins
+msgid "Manage translations"
+msgstr ""
+
+#: list-plugins.php:297
+#@ listplugins
+msgid "Give feedback"
+msgstr ""
+
+#: list-plugins.php:302
+#@ listplugins
+msgid "Other plugins"
+msgstr ""
+
+#: list-plugins.php:356
+#: list-plugins.php:373
+#: list-plugins.php:374
+#@ listplugins
+msgid "Download %s"
+msgstr ""
+
+#: list-plugins.php:357
+#@ listplugins
+msgid "Download %s (on Wordpress.org)"
+msgstr ""
+
+#: list-plugins.php:368
+#@ listplugins
+msgid "Error: %s"
+msgstr ""
+

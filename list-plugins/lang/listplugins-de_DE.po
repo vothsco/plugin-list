@@ -1,0 +1,113 @@
+msgid ""
+msgstr ""
+"Generated: SL Framework (http://www.sedlex.fr)\n"
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2014-12-01T09:34:01+00:00\n"
+"Last-Translator: MarkusBloch <cowboyofbottrop@gmail.com>\n"
+"Last-Translator: solist <http://cts.solist.co>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-Language: German\n"
+"X-Poedit-Country: Germany\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;\n"
+"X-Poedit-Basepath: \n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes\n"
+
+msgid "This plugin generates and display the list of the plugins on your wordpress installation. Moreover it enables the download of the plugins."
+msgstr "Dieses Plugin erstellt eine Liste der Plugins deiner WordPress-Installation und zeigt sie an. Darüber hinaus ermöglicht es den Download der Plugins."
+
+msgid "To display the list please type %s on pages/posts where you want the list to be displayed."
+msgstr "Um die Liste anzuzeigen, gebe %s an der Stelle der Seite/des Artikels ein, an der die Liste erscheinen soll."
+
+msgid "Which plugins do you want to list?"
+msgstr "Welche Plugins möchtest du auflisten?"
+
+msgid "Display plugins that are hosted by Wordpress:"
+msgstr "Zeige Plugins, die bei WordPress gehostet werden:"
+
+msgid "Display Wordpress plugins that are inactive:"
+msgstr "Zeige inaktive Plugins:"
+
+msgid "Display plugins that are not hosted by Wordpress:"
+msgstr "Zeige Plugins, die nicht bei WordPress gehostet werdem:"
+
+msgid "Display non-Wordpress plugins that are inactive:"
+msgstr "Zeige inaktive nicht-WordPress-Plugins:"
+
+msgid "Show only plugins developped by the author:"
+msgstr "Zeige nur Plugins von diesem Autor:"
+
+msgid "If this field is empty, all plugins (matching the previous conditions) will be displayed"
+msgstr "Wenn dieses Feld leer ist, werden alle Plugins gemäß obigen Einstellungen angezeigt"
+
+msgid "Advanced options"
+msgstr "Erweiterte Einstellungen"
+
+msgid "What is the width of screenshots (in pixels):"
+msgstr "Wie breit sind die Screenshots (in Pixel):"
+
+msgid "What is the HTML:"
+msgstr "HTML für die Darstellung:"
+
+msgid "Default HTML: %s"
+msgstr "Standart-HTML: %s"
+
+msgid "What is the CSS:"
+msgstr "CSS für die Darstellung:"
+
+msgid "Default CSS: %s"
+msgstr "Standart-CSS: %s"
+
+msgid "Path to store the zip file if needed:"
+msgstr "Pfad zum Speichern der ZIP-Datei, falls nötig"
+
+msgid "Note that, if the plugin is also hosted by wordpress.org, the download link will be a link to the plugin page on wordpress.org"
+msgstr "Beachte, dass der Download-Link auf die Pluginseite auf wordpress.org verweist, wenn das Plugin auch dort gehostet wird"
+
+msgid "The path %s exists"
+msgstr "Der Pfad %s existiert"
+
+msgid "The path %s does not exist and cannot be created due to rights in the folder"
+msgstr "Der Pfad %s existiert nicht und kann wegen fehlender Verzeichnisrechte nicht erstellt werden"
+
+msgid "The path %s have been just created !"
+msgstr "Der Pfad %s wurde erstellt!"
+
+msgid "Parameters"
+msgstr "Parameter"
+
+msgid "Manage translations"
+msgstr "Übersetzungen verwalten"
+
+msgid "Give feedback"
+msgstr "Feedback geben"
+
+msgid "Other plugins"
+msgstr "Weitere Plugins"
+
+msgid "Download %s"
+msgstr "%s downloaden"
+
+msgid "Download %s (on Wordpress.org)"
+msgstr "%s von wordpress.org downloaden"
+
+msgid "Error: %s"
+msgstr "Fehler: %s"
+
+msgid "Purpose of that plugin"
+msgstr "Zweck dieses Plugins"
+
+msgid "How to display the list of the plugin?"
+msgstr "Wie soll die Liste dargestellt werden?"
+
+msgid "How To"
+msgstr "So geht&#039;s"
+

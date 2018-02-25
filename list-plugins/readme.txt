@@ -9,7 +9,7 @@ Requires at least: 3.0
 Tested up to: 4.5
 Stable tag: trunk
 License: GPLv3
-
+trying a commit
 Create a list of the active plugins in a page (when the shortcode [list_plugins] is found). 
 
 == Description ==
